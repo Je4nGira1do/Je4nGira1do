@@ -18,7 +18,6 @@ I'm a **Low-Level Software Developer & AI Architect** focused on hardware effici
 ## 🌐 Connect with Me
 
 - **Domain:** [je4ngira1do.dev](https://je4ngira1do.dev)
-- **X (Twitter):** [@Je4nGira1do](https://x.com/Je4nGira1do)
 - **Email:** contact@je4ngira1do.dev
 
 ---
