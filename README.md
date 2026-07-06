@@ -15,10 +15,5 @@ I'm a **Low-Level Software Developer & AI Architect** focused on hardware effici
 - **Resource-Efficient AI Deployment:** Compiling and scaling open-source models (LLMs, vision) to run 100% locally on edge infrastructure, dropping cloud server bills to $0.
 - **Custom Automation & System Bridges:** Developing hyper-efficient Python scripts and backend pipelines connected to robust desktop tools or lightweight web interfaces.
 
-## Connect with Me
-
-- **Domain:** [je4ngira1do.dev](https://je4ngira1do.dev)
-- **Email:** contact@je4ngira1do.dev
-
 ---
 *“Optimize everything. Waste no CPU cycles.”*
